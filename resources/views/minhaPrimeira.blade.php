@@ -1,0 +1,2 @@
+<h1>Challenge</h1>
+<h2>Sua missão é criar uma rota chamada possoEntrar, que receba uma idade como parâmetro, se a idade for maior ou igual a 18 imprima na view PossoEntrar.blade.php "Bem Vindo!", se não imprima "você não tem idade para entrar"</h2>
